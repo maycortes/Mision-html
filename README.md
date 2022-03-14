@@ -1,2 +1,2 @@
 # Mision-html
-Realización de mquetación de una pasteleria 
+Realización de maquetación de una pasteleria 
